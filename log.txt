@@ -1,0 +1,2 @@
+45c7646 Task 1.1: Fix CheckStyle issues - encapsulate fields, add Javadoc, fix magic numbers
+3763b74 Initial commit
