@@ -1,3 +1,4 @@
+c5e3046 Task 2.3: Extract usd method and remove frmt variable
 b844434 Task 2.2: Extract getVolumeCredits method
 9c58c90 Task 2.1: Extract Methods and remove & change parameters
 1f306d8 Task 1.2: Update git log
