@@ -1,3 +1,4 @@
+9c58c90 Task 2.1: Extract Methods and remove & change parameters
 1f306d8 Task 1.2: Update git log
 45c7646 Task 1.1: Fix CheckStyle issues - encapsulate fields, add Javadoc, fix magic numbers
 3763b74 Initial commit
